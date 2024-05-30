@@ -1,2 +1,2 @@
 # Note-making-WebApp
-simple note-making web app using html,css,ejs,node.js,express.js 
+simple note-making web app using html,tailwind css,ejs,node.js,express.js 
